@@ -33,7 +33,7 @@ Import Project to your IDE. Run `com.example.hello.Application` main method.
 [hello] 2016-09-02 11:12:49,634 INFO  [main] com.blade.BladeBanner | 	 |_) |   /_\ | \ |_
 [hello] 2016-09-02 11:12:49,634 INFO  [main] com.blade.BladeBanner | 	 |_) | , | | |_/ |
 [hello] 2016-09-02 11:12:49,634 INFO  [main] com.blade.BladeBanner | 	 ~   ~~~ ~ ~ ~   ~~~
-[hello] 2016-09-02 11:12:49,634 INFO  [main] com.blade.BladeBanner | 	 :: Blade :: (v1.6.6-beta)
+[hello] 2016-09-02 11:12:49,634 INFO  [main] com.blade.BladeBanner | 	 :: Blade :: (v2.0.8-R2)
 
 [hello] 2016-09-02 11:12:49,634 INFO  [main] com.blade.web.DispatcherServlet | Blade initialize successfully, Time elapsed: 11 ms.
 [hello] 2016-09-02 11:12:49,634 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler | Started o.e.j.s.ServletContextHandler@2d6e8792{/,file:/D:/projects/hello/,AVAILABLE}
